@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24938e58.css",
+    "main.js": "/static/js/main.b08df954.js",
+    "static/media/PretendardVariable.woff2": "/static/media/PretendardVariable.2bc582461caf4e05b51d.woff2",
+    "index.html": "/index.html",
+    "main.24938e58.css.map": "/static/css/main.24938e58.css.map",
+    "main.b08df954.js.map": "/static/js/main.b08df954.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24938e58.css",
+    "static/js/main.b08df954.js"
+  ]
+}
